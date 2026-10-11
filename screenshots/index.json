@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "hello-alice",
+    "captured_at": "2026-10-11T185551",
+    "source_url": "https://helloalice.com/",
+    "source_type": "Website",
+    "file": "hello-alice-2026-10-11T185551.png",
+    "bytes": 416716,
+    "capture": "playwright-local"
+  }
+]
